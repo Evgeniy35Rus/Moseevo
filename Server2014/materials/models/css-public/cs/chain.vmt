@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\css-public\cs\chain"
+	"$translucent" "1"
+	"$alphatest" "1"
+	"$nocull" "1"
+
+}

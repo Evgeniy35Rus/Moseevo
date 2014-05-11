@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\css-public\cs\trainstationsign"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\css-public\cs\trainstationsign_ref"
+
+}
